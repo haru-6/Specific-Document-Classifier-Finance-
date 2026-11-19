@@ -20,7 +20,6 @@ financial-document-classifier/
 ├── models/
 │   ├── fin_doc_classifier/         # Fine-tuned Transformer model & tokenizer
 │   └── confusion_matrix.png        # Test set confusion matrix plot
-├── notebooks/                  # Exploratory/training notebooks (if applicable)
 ├── screenshots/                # Working Streamlit GUI screenshots
 ├── requirements.txt            # Python dependencies
 ├── .gitignore
